@@ -1,0 +1,49 @@
+INT. Small conference or meeting room. Day time 
+
+Leslie is in a small room, finishing up the final lines of a programming technical interview. She is 
+writing on a white board with a marker, slightly crouched down as she writes a closing bracket on the 
+board. She straightens up, and turns to the interviewer, who is also in the room as well. 
+
+				Leslie
+		And if after you sort by the keys in the dictionary,
+		you should be able to interate it through all of its 
+		values, and then return the result. This should run 
+		in O(n^2). Which isn't the best, but its better than
+		the O(n!) algorithm before.
+
+				Interviewer
+		Looks good. You're on the right track. Now do we need
+		to store all the values that were given? Is there someway 
+		we can reduce the amount of items we need to iterate over?
+
+Leslie pauses for a second while looking at the board. She seems deep in thought, but also a bit rushed
+since the time limit to complete the technical interview is running out. 
+
+				Leslie
+		Uhh, I don't know. Hmm.
+
+Beat 
+
+				Leslie 
+		Oh I got it! We can sort the input first before we stuff 
+		it in a hashtable. Then, we can look at the last n/2 input
+		and put that in the hashtable instead. It is still O(n^2), 
+		but we'll be saving memory. 
+
+Leslie quickly erases some code on the white board and rapidly scribles some code. It looks more 
+sloppy compared to the rest of her good handwriting. //She can be seen writing and talking at
+the same time. 
+
+				Inteviewer
+		Awsome! That looks good. 
+
+Interviewer looks at their phone for time. 
+
+		And we're out of time. But the solution looks good and it was 
+		almost exactly what we were looking for. I'll get your results
+		to the selction committee and you *should* be hearing from us 
+		in the coming days. 
+
+
+				Leslie
+	OK, sounds good. Thank you for your time! 
