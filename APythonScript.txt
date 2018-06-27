@@ -47,3 +47,81 @@ Interviewer looks at their phone for time.
 
 				Leslie
 	OK, sounds good. Thank you for your time! 
+
+They shake hands. Leslie leaves the room. 
+
+EXT. Outside a corporate tech office. The suroundings seems modern. 
+
+CUT to Leslie reaching for her phone. She calls her friend, Ron. She walks away from the building as she 
+calls Ron on the phone. // 
+
+				Leslie
+		Hey Ron, I just got out of the interview? 
+
+				Ron
+		Awesome! How did it go? 
+
+		/* enter standard banter here */
+
+
+CUT TO EXT. Either a coffee shop or a bench near a busy area. They sit down 
+/*maybe have ron ask about why Leslie is interviewing before this scene. Or 
+have him be surprised that she is interviewing when she already has a job */
+
+				Ron
+		So how'd the interview go? 
+
+				Leslie
+		It went great! I barely finished in time thought. I was so 
+		fucking worried I wouldn't have time to optimize becuase it
+		was one of the hardest technical coding interviews I've ever
+		been in.
+
+				Ron
+		Well it's the last round right? You made it this far. What'd 
+		the intervier say?
+
+				Leslie
+		She said good job! She gave some pretty strong hints that I got 
+		the right answer. So...hopefully I'll be able to pass the interview. 
+		And get the job at Billion. 
+
+				Ron
+		You basically have it in the bag, if they told you you would get 
+		a call back from them. 
+
+Beat. Ron smiles but looks down at his food or coffee. He looks back up with a questioning look.
+
+				Ron 
+		So why are you interviewing around? You still working at that 		/*clean this up, bc 
+		aweful startup? I thought you enjoyed what you did. Thought that 	  talking 2 companies		
+		Leslie wasn't going to work for a heartless tech corporation		  at once is confussing */
+		that only sells ads. 								
+
+				Leslie
+		Ron, Billion doesn't just sell ads. They also are a huge
+		cloudhosting company. That's the team I want to join. 
+		And the startup I'm at right now? I don't know. I thought 
+		I would love working for a small scrappy team. Everyone 
+		giving it all. Where failure could literally be tomorrow 
+		or you're hugely succesful tomrrow. 
+
+				Ron
+		So what changed? While in college you always talked about working
+		at a startup. You and Mark almost dropped out. In fact, you were
+		pitching to VCs during senior year. You had a series A going before
+		graduation! 
+
+				Leslie
+		Yeah, I almost didn't graduate because I was working 
+		on our presentation instead of studying for the linear
+		algebra final. 
+
+				Ron
+		Well what now? Wish you studied for linear algebra now? 
+
+
+				Leslie
+		No, it's that I don't believe in what we're doing any
+		more. 
+
