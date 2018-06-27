@@ -4,49 +4,49 @@ Leslie is in a small room, finishing up the final lines of a programming technic
 writing on a white board with a marker, slightly crouched down as she writes a closing bracket on the 
 board. She straightens up, and turns to the interviewer, who is also in the room as well. 
 
-				Leslie
-		And if after you sort by the keys in the dictionary,
-		you should be able to interate it through all of its 
-		values, and then return the result. This should run 
-		in O(n^2). Which isn't the best, but its better than
-		the O(n!) algorithm before.
+                Leslie
+        And if after you sort by the keys in the dictionary,
+        you should be able to interate it through all of its 
+        values, and then return the result. This should run 
+        in O(n^2). Which isn't the best, but its better than
+        the O(n!) algorithm before.
 
-				Interviewer
-		Looks good. You're on the right track. Now do we need
-		to store all the values that were given? Is there someway 
-		we can reduce the amount of items we need to iterate over?
+                Interviewer
+        Looks good. You're on the right track. Now do we need
+        to store all the values that were given? Is there someway 
+        we can reduce the amount of items we need to iterate over?
 
 Leslie pauses for a second while looking at the board. She seems deep in thought, but also a bit rushed
 since the time limit to complete the technical interview is running out. 
 
-				Leslie
-		Uhh, I don't know. Hmm.
+                Leslie
+        Uhh, I don't know. Hmm.
 
 Beat 
 
-				Leslie 
-		Oh I got it! We can sort the input first before we stuff 
-		it in a hashtable. Then, we can look at the last n/2 input
-		and put that in the hashtable instead. It is still O(n^2), 
-		but we'll be saving memory. 
+                Leslie 
+        Oh I got it! We can sort the input first before we stuff 
+        it in a hashtable. Then, we can look at the last n/2 input
+        and put that in the hashtable instead. It is still O(n^2), 
+        but we'll be saving memory. 
 
 Leslie quickly erases some code on the white board and rapidly scribles some code. It looks more 
 sloppy compared to the rest of her good handwriting. //She can be seen writing and talking at
 the same time. 
 
-				Inteviewer
-		Awsome! That looks good. 
+                Inteviewer
+        Awsome! That looks good. 
 
 Interviewer looks at their phone for time. 
 
-		And we're out of time. But the solution looks good and it was 
-		almost exactly what we were looking for. I'll get your results
-		to the selction committee and you *should* be hearing from us 
-		in the coming days. 
+        And we're out of time. But the solution looks good and it was 
+        almost exactly what we were looking for. I'll get your results
+        to the selction committee and you *should* be hearing from us 
+        in the coming days. 
 
 
-				Leslie
-	OK, sounds good. Thank you for your time! 
+                Leslie
+    OK, sounds good. Thank you for your time! 
 
 They shake hands. Leslie leaves the room. 
 
@@ -55,73 +55,224 @@ EXT. Outside a corporate tech office. The suroundings seems modern.
 CUT to Leslie reaching for her phone. She calls her friend, Ron. She walks away from the building as she 
 calls Ron on the phone. // 
 
-				Leslie
-		Hey Ron, I just got out of the interview? 
+                Leslie
+        Hey Ron, I just got out of the interview? 
 
-				Ron
-		Awesome! How did it go? 
+                Ron
+        Awesome! How did it go? 
 
-		/* enter standard banter here */
+        /* enter standard banter here */
 
 
 CUT TO EXT. Either a coffee shop or a bench near a busy area. They sit down 
 /*maybe have ron ask about why Leslie is interviewing before this scene. Or 
 have him be surprised that she is interviewing when she already has a job */
 
-				Ron
-		So how'd the interview go? 
+                Ron
+        So how'd the interview go? 
 
-				Leslie
-		It went great! I barely finished in time thought. I was so 
-		fucking worried I wouldn't have time to optimize becuase it
-		was one of the hardest technical coding interviews I've ever
-		been in.
+                Leslie
+        It went great! I barely finished in time thought. I was so 
+        fucking worried I wouldn't have time to optimize becuase it
+        was one of the hardest technical coding interviews I've ever
+        been in.
 
-				Ron
-		Well it's the last round right? You made it this far. What'd 
-		the intervier say?
+                Ron
+        Well it's the last round right? You made it this far. What'd 
+        the intervier say?
 
-				Leslie
-		She said good job! She gave some pretty strong hints that I got 
-		the right answer. So...hopefully I'll be able to pass the interview. 
-		And get the job at Billion. 
+                Leslie
+        She said good job! She gave some pretty strong hints that I got 
+        the right answer. So...hopefully I'll be able to pass the interview. 
+        And get the job at Billion. 
 
-				Ron
-		You basically have it in the bag, if they told you you would get 
-		a call back from them. 
+                Ron
+        You basically have it in the bag, if they told you you would get 
+        a call back from them. 
 
 Beat. Ron smiles but looks down at his food or coffee. He looks back up with a questioning look.
 
-				Ron 
-		So why are you interviewing around? You still working at that 		/*clean this up, bc 
-		aweful startup? I thought you enjoyed what you did. Thought that 	  talking 2 companies		
-		Leslie wasn't going to work for a heartless tech corporation		  at once is confussing */
-		that only sells ads. 								
+                Ron 
+        So why are you interviewing around? You still working at that       /*clean this up, bc 
+        aweful startup? I thought you enjoyed what you did. Thought that      talking 2 companies       
+        Leslie wasn't going to work for a heartless tech corporation          at once is confussing */
+        that only sells ads.                                
 
-				Leslie
-		Ron, Billion doesn't just sell ads. They also are a huge
-		cloudhosting company. That's the team I want to join. 
-		And the startup I'm at right now? I don't know. I thought 
-		I would love working for a small scrappy team. Everyone 
-		giving it all. Where failure could literally be tomorrow 
-		or you're hugely succesful tomrrow. 
+                Leslie
+        Ron, Billion doesn't just sell ads. They also are a huge
+        cloudhosting company. That's the team I want to join. 
+        And the startup I'm at right now? I don't know. I thought 
+        I would love working for a small scrappy team. Everyone 
+        giving it all. Where failure could literally be tomorrow 
+        or you're hugely succesful tomrrow. 
 
-				Ron
-		So what changed? While in college you always talked about working
-		at a startup. You and Mark almost dropped out. In fact, you were
-		pitching to VCs during senior year. You had a series A going before
-		graduation! 
+                Ron
+        So what changed? While in college you always talked about working
+        at a startup. You and Mark almost dropped out. In fact, you were
+        pitching to VCs during senior year. You had a series A going before
+        graduation! 
 
-				Leslie
-		Yeah, I almost didn't graduate because I was working 
-		on our presentation instead of studying for the linear
-		algebra final. 
+                Leslie
+        Yeah, I almost didn't graduate because I was working 
+        on our presentation instead of studying for the linear
+        algebra final. 
 
-				Ron
-		Well what now? Wish you studied for linear algebra now? 
+                Ron
+        Well what now? Wish you studied for linear algebra now? 
 
 
-				Leslie
-		No, it's that I don't believe in what we're doing any
-		more. 
+                Leslie
+        No, it's that I don't believe in what we're doing any
+        more. The VC culture, only focusing on growth. We've 
+        lost track of who we are, who we were. 
+
+Ron's phone rings or buzzes. Ron looks at his phone and looks a little shook.
+
+                Ron
+        Well that's a shame. We should talk about this later. 
+        I gotta go. Production issues. Someone didn't config
+        the load balencer correctly. 
+
+They both get up and leave. Leslie and Ron exit the coffee shop in seperate directions. As Leslie 
+leaves, she looks disheartend. She looks at the ground as she walks away.  
+
+CUT TO an office building with a modern, open office setup. Computers and laptops line the tables.
+There are a bunch of wires and coffee cups that are on the tables. The atmosphere gives off a tech
+and startup feel. People are working at their computers either at the tables or on couches. Leslie 
+walks in and starts to head for her desk. She gets interrupted by Mark, her co-founder and CEO. 
+
+                Mark
+        Hey! How's my beautiful CTO doing this fine afternoon? 
+
+Leslie feigns a smile to hide her discomfort. 
+
+                Leslie
+        I'm good. Gonna meet with the backend engineers to 
+        finalize our authentication platform and then meet with
+        the frontend engineers to plan for our new web page
+        for the upcoming feature. 
+
+                Mark
+        Awsome. That sounds great. And I know you are working 
+        really hard, but we need to add one new feature. 
+
+                Leslie
+        Another one?! Really? My team is already pulling
+        12 hour days just to keep the current web services
+        afloat. There are so many critical functions, like 
+        the ads generator, that could literally go down if 
+        someone opened their browser console. Our servers
+        for storing user's video, the main thing that attracts
+        users to our app, are barely scaling to demand. And
+        now you come to me with another requirement? You 
+        gotta stop changing our requirements when we're in 
+        the middle of an interation! 
+
+                Mark
+        I get that you guys are working hard but, look.
+        I already told the investors we are going to add
+        this new part in our next release. If we want to 
+        get our next round of funding, we need to add 
+        this new feature that I came up with in the next
+        release. Otherwise, we're out of money. 
+
+Leslie pauses to think about the overload that her and her team is facing with these new requirements
+for the startup's core application. She looks shocked and in dispair. 
+
+                Leslie 
+        (reluctently) Okay. What do you got? 
+
+                Mark
+        We need to add a distributed ledger.
+
+                Leslie
+        A fucking blockchain? 
+
+                Mark
+        Yeah. Our VCs want us to use blockchain. They
+        increased their funding by 5% because I told
+        them we would use blockchain. Oh and machine
+        learning. They were super psyched! 
+
+                Leslie
+        Are you ser-
+Mark's phone rings and he picks it up. He walks away from Leslie without saying goodbye. He can
+be heard talking in a bro-frat-style voice to the investor on the phone. 
+
+                Mark
+        (As he's leaving) Sup Bro?...We'll definitely 
+        get the new blockchain thingy out in the next
+        release. Don't you worry, man. 
+
+Leslie stands there incredulously.
+
+                Leslie
+        What the fuck? Fuck our investors. 
+
+Leslie walks to her table with other people working at the same table. She sits down. Another 
+software developer at the desk turns and talks to her. She begins working .
+
+CUT TO a conference room with a white board in the same building. It is clearly later than before she
+first came in, perhaps even at night. 
+
+/* This scene could come right after Leslie goes to her desk. She could meet up with her dev team 
+    and break the news, when it's still in the afternoon*/ 
+                
+                Leslie
+        Alright. So we need to start work migrating our current
+        shit database to a faster one like Postgres. And we 
+        also need to clean up the user interface so that
+        the ads have more space. That's what our investors
+        want for this new release. 
+                (beat)
+        And we also need to implement a blockchain. 
+
+The engineers in the room have questioned looks and start talking among themsselves. 
+
+                Leslie
+        Guys. I know its just a hyped up tech that no one knows
+        anything about right now, but Mark told me that the 
+        investors want us to use a blockchain in order to get
+        our series C. 
+
+                Engineer 1 (Kelly)
+        Are you serious? We've spent 12 hours here for the past
+        2 weeks trying to get our new version for ad placement
+        to work. We barely have time to finish scaling our vido
+        service too. 
+
+                Engineer 2 (Jason)
+        I agree. The frontend UI has changed so much, just in 
+        the past 3 days. The frontend designers can't make 
+        keep up with the new for the new features that we're 
+        supposed to have AND keep up with the new specs for 
+        any previous work we did. 
+
+                Engineer 1
+        Leslie, you've done a good job shielding us from meetings
+        so we could do our jobs developing the app. But you 
+        gotta tell Mark that he can't keep bombarding us with 
+        new features every other day just because it sounds cool. 
+
+                Engineer 2
+        Yeah. We have no time. 
+
+                Leslie
+        Kelly, migrate our user info tables to the new database
+        only. Our test info can wait. Jason, try to hardcode 
+        some of the Angular componants right now. For the video
+        service problems, we won't serve 1080p video, just 720. 
+
+                Engineer 1
+        And the blockchain thing?
+
+                Leslie
+        Uhh, I don't know. Just make a linked list in random
+        folder that doens't get used. We can call it "a fast
+        and lightweight blockchain."
+
+                Engineer 1 
+        Sounds good.
+
+Everyone leaves the conference room. 
 
