@@ -56,63 +56,98 @@ CUT to Leslie reaching for her phone. She calls her friend, Ron. She walks away 
 calls Ron on the phone. // 
 
                 Leslie
-        Hey Ron, I just got out of the interview? 
+        Hey Ron, I just got out. You good for lunch in 10 minutes?
 
                 Ron
-        Awesome! How did it go? 
+        Yeah sure. Sounds good. I'll be done with our load test
+        soon. Meet you at lunch in 10. 
 
-        /* enter standard banter here */
+Leslie hangs up her phone and gets in her car and she drives off. 
 
 
-CUT TO EXT. Either a coffee shop or a bench near a busy area. They sit down 
-/*maybe have ron ask about why Leslie is interviewing before this scene. Or 
-have him be surprised that she is interviewing when she already has a job */
+CUT TO EXT. Either a coffee shop or a bench near a busy area. Ron is sitting at
+a table awating for Leslie. She walks in and looks for her friend. Ron looks up 
+and waves to her. Leslie notices and sits at his table. 
+
+/*  maybe have ron ask about why Leslie is interviewing before this scene. Or 
+    have him be surprised that she is interviewing when she already has a job.
+    This scene is a fork in that it can decide the tone of this film and the 
+    mentality of Leslie. 
+*/
 
                 Ron
-        So how'd the interview go? 
+        Sup Leslie, long time no see. How've you been? Been a long 
+        time since graduation.  
 
                 Leslie
-        It went great! I barely finished in time thought. I was so 
-        fucking worried I wouldn't have time to optimize becuase it
-        was one of the hardest technical coding interviews I've ever
-        been in.
+        Yeah it has! It's been...stressful, being the CTO 
+        at Aireal The startup life is a wild rollercoaster.
+        Everyday shit's breaking. And you and a small 
+        ragtag team of software engineers are in the trenches
+        trying to fix it. And how have you been? 
 
                 Ron
-        Well it's the last round right? You made it this far. What'd 
-        the intervier say?
+         I am a lead developer for my team now. Get to make the 
+         big decisions such as: are we using tabs or spaces
+         as our for our code base. 
 
                 Leslie
-        She said good job! She gave some pretty strong hints that I got 
-        the right answer. So...hopefully I'll be able to pass the interview. 
-        And get the job at Billion. 
-
-                Ron
-        You basically have it in the bag, if they told you you would get 
-        a call back from them. 
-
-Beat. Ron smiles but looks down at his food or coffee. He looks back up with a questioning look.
+        Congrats on your promotion into upper management. 
 
                 Ron 
-        So why are you interviewing around? You still working at that       
-        aweful startup? I thought you enjoyed what you did. 
-        Thought that Leslie wasn't going to work for a heartless 
-        tech corporation that only sells ads.                                
+        I'm not there yet. I still code everyday. And you
+        need to stop needlessly hating on "upper management".
+
+Leslie smiles at the small jab at her distrustful sentiment. She seems like she is looking for the courage 
+to say something. She finally looks at Ron 
 
                 Leslie
-        First of all, Ron, the startup I work for is called Arieo. 
-        And second, the company I just interviewed for, Billion,
-        doesn't just sell ads. They also are a huge cloudhosting
-        company. That's the team I want to join. And the startup 
-        I'm at right now? I don't know. I thought I would love 
-        working for a small scrappy team. Everyone 
-        giving it all. Where failure could literally be tomorrow 
-        or you're hugely succesful tomrrow. 
+        I just interviewed at Billion today. 
 
                 Ron
-        So what changed? While in college you always talked about working
-        at a startup. You and Mark almost dropped out. In fact, you were
-        pitching to VCs during senior year. You had a series A going before
-        graduation! 
+        (Surprised) Seriously? Well why-how was he interview?
+
+
+                Leslie
+        The interview went great. She said good I did a good
+        job finding the most efficient solution and gave some
+        pretty strong hints that I got the right answer. She 
+        even said that I should hear from Billion's recruiting
+        team next week. So...hopefully I'll be able to move on 
+        to the next round. 
+
+                Ron
+        (Still incredulous) Okay, so you basically have it in
+        the bag then, if they told you you would get a call back
+        from them. 
+        
+Ron smiles but looks down at his food or coffee. He looks back up with a questioning look.
+
+                Ron 
+        So why are you interviewing at Billion? I thought you 
+        were loving that startup life? Thought that Leslie wasn't 
+        going to work for a huge, heartless tech corporation
+        that only sells ads.                                
+
+                Leslie
+        You know, I thought the same thing too. But now, I'm 
+        not so sure. I think I need to see something else to 
+        truely know if I really want...this. I enjoy working 
+        in a small scrappy team. Everyone giving their all.
+        Where failure could literally be tomorrow or success
+        could be a year away. But...
+
+                Ron
+        But... 
+
+Leslie looks distraught and unsure of herself. 
+        
+                Ron
+        Here's some unqualified advice. While in college you
+        always talked about working at a startup. You and
+        Mark almost dropped out. In fact, you were pitching 
+        to VCs during senior year. You had a series A going 
+        before graduation! 
 
                 Leslie
         Yeah, I almost didn't graduate because I was working 
@@ -120,8 +155,30 @@ Beat. Ron smiles but looks down at his food or coffee. He looks back up with a q
         algebra final. 
 
                 Ron
-        Well what now? Wish you studied for linear algebra now? 
+        And now what, Aireal is on the news for a 100 million
+        dollar valuation? You definitely contributed to that 
+        valuation and the growth of Aireal. You've always had 
+        this rebel-entreprenuer inside you.
 
+                Leslie
+        Yeah but, I knew working at Aireal is going to hard.
+        Long hours, scrappy environment, and fighting for 
+        funding. But it's one thing to know about it, it's 
+        another to experience it. I think I just had this
+        over-romanticized perception of a startup. 
+
+                Ron
+        You might have had this rosey-view of working at a 
+        startup, but that's fine. You've done well so far. 
+        Looking from the outside, you are a very capable CTO. 
+        You hitting a difficult patch right now? 
+
+                Leslie
+        Yeah. Going through a series C, focusing on growth, 
+        somehow we're supposed to double our paying users 
+        in the next two quarters. All while making sure the 
+        servers don't crumble under more users and developing
+        new features for the site!
 
                 Leslie
         No, it's that I don't believe in what we're doing any
