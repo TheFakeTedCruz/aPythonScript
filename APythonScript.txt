@@ -1,16 +1,44 @@
 A Startup Life
 By: Henry Shen 
 
+    Leslie is a smart, determined, and a good leader. She works at a
+    startup company that she founded with her friend fron college, 
+     Mike. Leslie is the chief technology officer (CTO) and Mike is
+    the CEO, who handles the business side. The startup, called
+    Aireal, is going through it's third round of venture capital 
+    (VC) fuding. Meaning, it is doing well, attracting customers, but
+    it just needs more money in order to scale to succeed. Leslie 
+    has worked at Aireal since graduating college, but now feels 
+    unsure of her career path because of all the challenges and BS 
+    she faces on a daily basis, challenges that are common at a 
+    startup. Because of this self-doubt, she has begun interviewing
+    at a large tech company called Billion, similar to Google IRL. 
+    Throughout the story, She confides to her friend Ron and her 
+    mentor, Ann, to figure out what to do about her career path. 
+    Does she want to continue working at a startup? Are the problems
+    that she deals with worth it? Would life at another, bigger, 
+    tech company satisify her career goals? This story aims to 
+    investigate those problems.   
+
 INT. Small conference or meeting room. Day time 
 
 Leslie is in a small room, at a programming technical interview at a large tech company called Billion
 simialar to a Google or a Facebook. Leslie is seen finishing up the final lines of a programming technical 
-interview. She is writing on a white board with a marker, slightly crouched down as she writes a closing bracket on the board. She straightens up, and turns to the interviewer, who is also in the room as well. 
+interview. She is writing on a white board with a marker, slightly crouched down as she writes a closing 
+bracket (the "}" symbol) on the board. She straightens up, and turns to the interviewer, who is also in the 
+room as well. 
+    
+     /*  The technical details here don't really matter unless it is being   
+         shown to a room of other software engineers. The whole point is 
+         that non-techies think she is impressive with her technical  
+         knowledge and techies have a general understanding of her 
+         interview problem. 
+    */
 
                 Leslie
         And if after you store all the values in a hash table,
         all the IP address should be unique. And its associated 
-        value will be a list of timestamps that a user visted 
+        value will be a list of timestamps that a user visited 
         the site. And for each visit, we can iterate over each 
         web page for that specific user. This overall process 
         is O(n^2). Which isn't the best, but its better than
@@ -33,18 +61,17 @@ since the time limit to complete the technical interview is running out.
         and put that in the hashtable instead. It is still O(n^2), 
         but we'll be saving memory. 
 
-Leslie quickly erases some code on the white board and rapidly scribles some code. It looks more 
-sloppy compared to the rest of her good handwriting. //She can be seen writing and talking at
+Leslie quickly erases some code on the white board and rapidly scribbles some code. It looks more sloppy compared to the rest of her good handwriting. She can be seen writing and talking at
 the same time. 
 
                 Inteviewer
-        Awsome! That looks good. 
+        Awesome! That looks good. 
 
 Interviewer looks at their phone for time. 
 
         And we're out of time. But the solution looks good and it was 
         almost exactly what we were looking for. I'll get your results
-        to the selction committee and you *should* be hearing from us 
+        to the selection committee and you *should* be hearing from us 
         in the coming days. 
 
 
@@ -53,10 +80,10 @@ Interviewer looks at their phone for time.
 
 They shake hands. Leslie leaves the room. 
 
-EXT. Outside a corporate tech office. The suroundings seems modern. 
+EXT. Outside a corporate tech office. The surroundings seems modern. 
 
 CUT to Leslie reaching for her phone. She calls her friend, Ron. She walks away from the building as she 
-calls Ron on the phone. // 
+calls Ron on the phone. 
 
                 Leslie
         Hey Ron, I just got out. You good for lunch in 10 minutes?
@@ -69,14 +96,15 @@ Leslie hangs up her phone and gets in her car and she drives off.
 
 
 CUT TO EXT. Either a coffee shop or a bench near a busy area. Ron is sitting at
-a table awating for Leslie. She walks in and looks for her friend. Ron looks up 
+a table awaiting for Leslie. She walks in and looks for her friend. Ron looks up 
 and waves to her. Leslie notices and sits at his table. 
 
-/*  maybe have ron ask about why Leslie is interviewing before this scene. Or 
-    have him be surprised that she is interviewing when she already has a job.
-    This scene is a fork in that it can decide the tone of this film and the 
-    mentality of Leslie. 
-*/
+     /*  maybe have ron ask about why Leslie is interviewing before this 
+     	  scene. Or have him be surprised that she is interviewing when she 
+         already has a job.
+        This scene is a fork in that it can decide the tone of this film 
+        and the mentality of Leslie. 
+    */
 
                 Ron
         Sup Leslie, long time no see. How've you been? Been a long 
@@ -84,7 +112,7 @@ and waves to her. Leslie notices and sits at his table.
 
                 Leslie
         Yeah it has! It's been...stressful, being the CTO 
-        at Aireal The startup life is a wild rollercoaster.
+        at Aireal. The startup life is a wild rollercoaster.
         Everyday shit's breaking. And you and a small 
         ragtag team of software engineers are in the trenches
         trying to fix it. And how have you been? 
@@ -98,7 +126,7 @@ and waves to her. Leslie notices and sits at his table.
         Congrats on your promotion into upper management. 
 
                 Ron 
-        I'm not there yet. I still code everyday. And you
+        I'm not there yet. I still code every day. And you
         need to stop needlessly hating on "upper management".
 
 Leslie smiles at the small jab at her distrustful sentiment. She seems like she is looking for the courage 
@@ -135,7 +163,7 @@ Ron smiles but looks down at his food or coffee. He looks back up with a questio
                 Leslie
         You know, I thought the same thing too. But now, I'm 
         not so sure. I think I need to see something else to 
-        truely know if I really want...this. I enjoy working 
+        truly know if I really want...this. I enjoy working 
         in a small scrappy team. Everyone giving their all.
         Where failure could literally be tomorrow or success
         could be a year away. But...
@@ -180,18 +208,62 @@ Leslie looks distraught and unsure of herself.
         Yeah. Going through a series C, focusing on growth, 
         somehow we're supposed to double our paying users 
         in the next two quarters. All while making sure the 
-        servers don't crumble under more users and developing
-        new features for the site!
+        servers don't crumble under the load and finding 
+        enough time to develop new features for the site!
 
+                Ron
+        Seems like you're frustrated. When Billion envitably 
+        calls you, you can get a feel for the company culture
+        and see how their engineering teams operate.  
+
+                Leslie
+        But I feel like I'm leaving my child behind, if I 
+        go to a big tech company. Everyone on my team could 
+        work at Billion if they wanted to. They even try to
+        poach some of our engineers. 
+
+                Ron
+        Regardless of how you feel now, it still seems you 
+        care about your company. You talk like all of you 
+        are a family. And that's rare. 
+
+                Leslie
+        (sarastically) Yeah, my company. And a monument to all
+        my mistakes. 
+
+                Ron
+        And also your successes. Checkout Billion. Talk to their
+        engineers. Ask them what are some of their daily challenges. 
+        They might be facing the same problems as you. Or more 
+        realistically, they don't have to worry about as much
+        because they're not running a company. 
+
+    /* save for later? Its a pretty powerful line. 
                 Leslie
         No, it's that I don't believe in what we're doing any
         more. The VC culture, only focusing on growth. We've 
         lost track of who we are, who we were. 
+        
+    */
+
+                Leslie
+        (reluctantly) Well, alright. And what do I do in the 
+        meantime? 
+
+                Ron
+        Make sure your servers are still alive when you hit 
+        100 paying users. 
+
+Leslie smiles at the remark. She seems a bit more reassured. 
+
+                Leslie
+        Well I'll try my best. Thanks Ron. I can alwasy count
+        on you for advice. 
 
 Ron's phone rings or buzzes. Ron looks at his phone and looks a little shook.
 
                 Ron
-        Well that's a shame. We should talk about this later. 
+        Absolutely. Any time. We should talk about this later. 
         I gotta go. Production issues. Someone didn't config
         the load balancer correctly. 
 
@@ -204,9 +276,9 @@ and startup feel. People are working at their computers either at the tables or 
 walks in and starts to head for her desk. She gets interrupted by Mark, her co-founder and CEO. 
 
                 Mark
-        Hey! How's my beautiful CTO doing this fine afternoon? 
+        Hey! How's my CTO doing this fine afternoon? 
 
-Leslie feigns a smile to hide her discomfort. 
+Leslie feigns a smile. 
 
                 Leslie
         I'm good. Gonna meet with the backend engineers to 
@@ -219,36 +291,54 @@ Leslie feigns a smile to hide her discomfort.
         really hard, but we need to add one new feature. 
 
                 Leslie
-        Another one?! Really? My team is already pulling
+        Another one?! Look man, my team is already pulling
         12 hour days just to keep the current web services
         afloat. There are so many critical functions, like 
         the ads generator, that could literally go down if 
         someone opened their browser console. Our servers
         for storing user's video, the main thing that attracts
-        users to our app, are barely scaling to demand. And
-        now you come to me with another requirement? You 
-        gotta stop changing our requirements when we're in 
-        the middle of an iteration! 
+        users to our app, are barely scaling to demand. I can't
+        just ask my engineers to "add a new feature" like 
+        it's nothing. And we gotta stop changing our requirements 
+        when we're in the middle of an iteration! 
 
                 Mark
-        I get that you guys are working hard but, look.
-        I already told the investors we are going to add
-        this new part in our next release. If we want to 
-        get our next round of funding, we need to add 
-        this new feature that I came up with in the next
-        release. Otherwise, we're out of money. 
+        I get that you guys are working hard. but look.
+        If we want to get our next round of funding, we need
+        to add this new feature that the VC came up with in the
+        next release. And I already told him that we would do it.
 
 Leslie pauses to think about the overload that her and her team is facing with these new requirements
 for the startup's core application. She looks shocked and in dispair. 
 
-                Leslie 
-        (reluctently) Okay. What do you got? 
+                Leslie
+        Okay. We already agreed from the start that I would
+        get the final say over feature requests and our
+        release schedule. 
+
+                Mark
+        Well, if we don't listen to our VC, then we're 
+        out of money in the next month. 
+
+                Leslie
+        Okay, you gotta stop thinking software development is 
+        just editing some HTML and making the website look pretty.
+        And you gotta stop finding asshole investors
+
+                Mark
+        I know your job is hard and I try to sheild the 
+        engineering team from the worst ideas. And all VCs
+        are assholes. 
+
+                Leslie
+        I don't think you're lookhing hard enough. Well, 
+        what does Mr. VC want us to implement. 
 
                 Mark
         We need to add a distributed ledger.
 
                 Leslie
-        (beat). A fucking blockchain? 
+        (beat) A fucking blockchain? 
 
                 Mark
         Yeah. Our VCs want us to use blockchain. They
@@ -256,19 +346,26 @@ for the startup's core application. She looks shocked and in dispair.
         them we would use blockchain. Oh and machine
         learning. They were super psyched! 
 
-                Leslie
-        Are you ser-
-Mark's phone rings and he picks it up. He walks away from Leslie without saying goodbye. He can be heard talking in a bro-frat-style voice to the investor on the phone. 
+Mark's phone rings. 
 
                 Mark
-        (As he's leaving) Sup Bro?...We'll definitely 
-        get the new blockchain thingy out in the next
-        release. Don't you worry, man. 
+        Sorry, I gotta go.  
+
+                Leslie
+        Are you ser-
+
+He picks up the phone as Leslie is talking and walks without saying goodbye. He can be heard talking 
+in a bro-frat-style voice to someone on the phone. 
+
+                Mark
+        (As he's leaving) Sup bro...yeah we'll definitely 
+        get the new blockchain thingy out in the next release.
+        Don't you worry, man. 
 
 Leslie stands there incredulously.
 
                 Leslie
-        What the fuck? Fuck our investors. 
+        Fuck our investors. 
 
 Leslie walks to her table with other people working at the same table. She sits down. Another 
 software developer at the desk turns and talks to her. She begins working .
@@ -276,8 +373,9 @@ software developer at the desk turns and talks to her. She begins working .
 CUT TO a conference room with a white board in the same building. It is clearly later than before she
 first came in, perhaps even at night. 
 
-/* This scene could come right after Leslie goes to her desk. She could meet up with her dev team 
-    and break the news, when it's still in the afternoon*/ 
+    /*  This scene could come right after Leslie goes to her desk. She could meet up with
+        her dev team and break the news, when it's still in the afternoon
+    */ 
                 
                 Leslie
         Alright. So we need to start work migrating our current
@@ -339,12 +437,154 @@ Leslie stands there in thought, trying to figure out how to solve her teams tech
         Sounds good.
 
 Everyone leaves the conference room. Leslie stays back while looking at her notebook and her laptop. She is 
-typing a few things on her computer. 
+typing a few things on her computer. She notices an interesting email in her inbox from Billion
 
-CUT to the same room. It is 1:00am on her computer clock. She looks noticibibly more tired than before. Two 
-coffee cups sit at her table in the conference room. Her phone buzzes. It is Ann, her mentor. Leslie picks up 
+                Leslie
+        (Reading to herself) Hello Leslie, it was a pleasure
+        to meet with you today...You did extremely well at
+        the technical interview...Do you want to come in 
+        next week for the second round of interviews with 
+        the engineering team? 
+
+        Huh. 
+
+She begins responding back to her email.
+        
+        Thank you Michelle for the opportunity today. I enjoyed
+        meeting with you. (beat)
+
+She mulls over her decision to go for the next round of interviews. 
+        
+        Next Tuedsay afternoon would be great! I'm excited to 
+        speak with the software engineering team. See you
+        next week! 
+
+Leslie takes one more time to think about her decision. She then mouses over the "send" button and clicks it. 
+She then looks outside the conference room to her team of engineers. Some have headphones in soley focused on
+their screens, some are looking over others' sholders helping debug a program, and others are standing around, 
+talking and laughing. She then sees Mark and another business-side person walk past the conference room. 
+Leslie takes a small breath. She gathers her stuff, walks aout of the conference room, and back to her desk,
+among her peers. 
+
+CUT to Leslie working at her desk. A junior engineer across from her looks past their computer and asks Leslie a
+question.
+
+                Engineer 3
+        Hey Leslie, I'm new and still trying to get the hang of
+        things around here. Do you know how to set up my virtual
+        machine? 
+
+                Leslie
+        Yeah sure, I can help you with that. 
+
+Leslie gets up and walks to the junior engineer's desk. Halfway there, Mark comes up to her. 
+
+                Mark
+        Hey Leslie. I need to talk to you about another change
+        in this iteration. 
+
+                Leslie
+        Mark, we'll talk about this later. I need to help one of
+        my engineers set up their development environment.
+
+Leslie brushes past Mark and heads to the junior engineer's desk. Mark looks a little bit shocked that someone
+ignored him. While Leslie is leaning over the engineer's desk, she looks to Mark. 
+
+        And we need to talk later about the changes. 
+
+                Mark
+        (Surprised) Oh, that's exactly what I was going to talk
+        about. I'll meet you in the conference room. 
+
+CUT to Mark inside the conference room. Leslie walks inside after helping her engineer. 
+
+                Mark
+        Okay so the ad relevacy-
+
+                Leslie
+        Cut the bullshit man. 
+
+Mark looks stunned at her remarks. 
+
+        You need to stop thinking that my team and I can aquiece
+        to your every demand just because some venture capitalist
+        told you it would be "cool" or some of your business-side
+        buddies gave you some "awesome" idea. 
+
+                Mark
+        Okay, well-
+
+                Leslie
+        And you need to step up for yourself. For our company. 
+        And as your CTO, you need to include me in your conversations
+        with our investors. And learn to say no to bad ideas. 
+        Like this blockchain POS. 
+
+                Mark
+        I get it but-
+
+                Leslie
+        And when did you start turing into one of those douchy-
+        CEOs? You and I used to work so closely together and now?
+        Now I feel like we're constantly enemies trying to wrangle
+        control of the company from each other. And it can't be
+        like this. 
+
+Mark realizes his past mistakes at Aireal and has a look of remorse. 
+
+                Mark
+        You know what Leslie, you're right. When we first started
+        I generally handled the business side and you generally
+        handled the tech side. But we worked together 100%
+        of the time. And, I have been a bit of an asshole recently.
+        Spending so much time with snakes has rubbed off on me. 
+        (beat) I'll look into less investors and have the engineering
+        team focues more on the core products. We don't need a
+        stupid blockchain. You can ignore today's new feature
+        requests. Focus on completing whatever tasks you think
+        need to be finished. I trust you. 
+
+                Leslie
+        Thanks Mark. Glad you understand our situation. I'll 
+        let our engineering team know. See you later. 
+
+Leslie walks out of the room and heads back to her desk, in the middle of the software engineering team. 
+
+                Leslie
+        Good news. We're scrapping the blockchain. Frontend 
+        team: lets focus on the ads placement and clean
+        up the code. Lets stop loggin anything to the
+        browser console. Backend team: we're working
+        on our scalability issues. Lets try to scale 
+        horizontally so our videos get served faster. Questions?
+
+                Engineer 1
+        Nope. Makes sense to me. 
+
+                Leslie
+        Alright lets get to work. 
+
+Leslie and the engineers head back to their desks. Leslie starts rapidly typing on her keyboard. 
+
+FADE to the clock on her computer starting at 4pm to 6pm. Leslie is drawing a diagram on the whiteboard with other engineers around her, 
+like she is explaining some technical concept. 
+
+FADE to the clock at 8pm. An engineer is sitting at their desk while Leslie is standing over their shoulder. Leslie is pointing to the engineer's 
+screen as they are debugging a program. 
+
+FADE to the clock at 10pm. Leslie looks physically tired but not mentally. There are bags under her eyes but she still is typing away at her keyboard.
+Her screen with code being typed. She drinks a cup of coffee.
+
+
+CUT to the same room. It is 1:00am on her computer clock. She looks noticibibly more tired than before. Two coffee cups sit at her table in the 
+conference room. Her phone buzzes. It is Ann, her mentor. Leslie picks up 
 her cell phone. 
 
+     /*  This is the first intro of Ann, her mentor. Should Ron and Ann be 
+         the same person? There isnt enough time to expo two characters.   
+         Better to develop one character well. Plus, both these characters 
+          play a mentorship role.  
+    */
 
                 Leslie
         Hey Ann, why are you calling me so late? And more 
@@ -408,7 +648,7 @@ her cell phone.
                 Leslie
         It was good! Got through the problem with just barely 
         enough time left. But the recruiter said some pretty
-        positive things as I left. 
+        positive things as I finished. 
 
                 Ann
         So after all this talk about startup startup startup,
@@ -417,8 +657,8 @@ her cell phone.
 
                 Leslie
         They still have a startup feel. And I don't know. I 
-        enjoy taking charge of my startup's problems because
-        they're my problems. And even though I might enjoy
+        enjoy taking charge of my Aireal's problems because
+        they're my problems. But it gets tiresome. And even though I might enjoy
         the atmosphere at Billion, and the people, I don't
         think I'll ever be able to get over my entreprenurial
         spirit. You know what I mean? 
@@ -445,6 +685,14 @@ Leslie hangs up the phone and stares at her computer, still unmoving since she h
 
 FADE OUT.
 
+     /*  I am not a fan of abrupt endings, even when all plot lines are 
+         wrapped up. This seems a bit too abrupt. Perhaps add an        
+         additional scene or make this convo flow a different way. Or show 
+         Leslie getting up and appreciating her startup office. Can add 
+         non-dialog plot/character development.  
+        Show that Leslie has accepted the difficulties of a startup and 
+        has CHOSEN to follow this path, because she enjoys it. 
+    */
 
 
 
