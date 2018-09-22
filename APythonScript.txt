@@ -488,15 +488,11 @@ Mark looks stunned at her remarks.
 Mark realizes his past mistakes at Aireal and has a look of remorse. 
 
                 Mark
-        You know what Leslie, you're right. When we first started
-        I generally handled the business side and you generally
-        handled the tech side. But we worked together 100%
-        of the time. And, I have been a bit of an asshole recently.
-        Spending so much time with snakes has rubbed off on me. 
-        (beat) I'll look into less investors and have the engineering
-        team focues more on the core products. We don't need a
-        stupid blockchain. You can ignore today's new feature
-        requests. Focus on completing whatever tasks you think
+        You know what Leslie, you're right. We were a team before but 
+        recently I haven't been resonable with you. And, I have been 
+        a bit of an asshole recently. I'll start prioritizing the tech 
+        team more. And We don't need a stupid blockchain. You can
+        ignore that. Focus on completing whatever tasks you think
         need to be finished. I trust you. 
 
                 Leslie
@@ -507,13 +503,14 @@ Leslie walks out of the room and heads back to her desk, in the middle of the so
 
                 Leslie
         Good news. We're scrapping the blockchain. Frontend 
-        team: lets focus on the ads placement and clean
-        up the code. Lets stop loggin anything to the
-        browser console. Backend team: we're working
+        team: lets focus on the ads placement and the video
+        page redesign. Backend team: we're working
         on our scalability issues. Lets try to scale 
-        horizontally so our videos get served faster. Questions?
+        horizontally so our videos get served faster. You guys 
+        actually have time to write clean code this time! Any 
+        Questions?
 
-                Engineer 1
+                Engineer 1 (looks around)
         Nope. Makes sense to me. 
 
                 Leslie
