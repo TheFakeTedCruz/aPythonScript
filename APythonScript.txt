@@ -113,9 +113,8 @@ and waves to her. Leslie notices and sits at his table.
                 Leslie
         Yeah it has! It's been...stressful, being the CTO 
         at Aireal. The startup life is a wild rollercoaster.
-        Everyday shit's breaking. And you and a small 
-        ragtag team of software engineers are in the trenches
-        trying to fix it. And how have you been? 
+        Everyday you put out small fires, sometimes big ones. 
+        Anyways, how have you been
 
                 Ron
          I am a lead developer for my team now. Get to make the 
@@ -134,25 +133,6 @@ to say something. She finally looks at Ron
 
                 Leslie
         I just interviewed at Billion today. 
-
-                Ron
-        (Surprised) Seriously? Well why-how was he interview?
-
-
-                Leslie
-        The interview went great. She said good I did a good
-        job finding the most efficient solution and gave some
-        pretty strong hints that I got the right answer. She 
-        even said that I should hear from Billion's recruiting
-        team next week. So...hopefully I'll be able to move on 
-        to the next round. 
-
-                Ron
-        (Still incredulous) Okay, so you basically have it in
-        the bag then, if they told you you would get a call back
-        from them. 
-        
-Ron smiles but looks down at his food or coffee. He looks back up with a questioning look.
 
                 Ron 
         So why are you interviewing at Billion? I thought you 
@@ -174,29 +154,15 @@ Ron smiles but looks down at his food or coffee. He looks back up with a questio
 Leslie looks distraught and unsure of herself. 
         
                 Ron
-        Here's some unqualified advice. While in college you
-        always talked about working at a startup. You and
-        Mark almost dropped out. In fact, you were pitching 
-        to VCs during senior year. You had a series A going 
-        before graduation! 
+        While in college you always talked about working 
+        at a startup. You andMark almost dropped out. 
+        In fact, you were pitching to VCs during senior year. 
+        You had a series A going before graduation! 
 
                 Leslie
         Yeah, I almost didn't graduate because I was working 
-        on our presentation instead of studying for the linear
+        on the presentation instead of studying for the linear
         algebra final. 
-
-                Ron
-        And now what, Aireal is on the news for a 100 million
-        dollar valuation? You definitely contributed to that 
-        valuation and the growth of Aireal. You've always had 
-        this rebel-entreprenuer inside you.
-
-                Leslie
-        Yeah but, I knew working at Aireal is going to hard.
-        Long hours, scrappy environment, and fighting for 
-        funding. But it's one thing to know about it, it's 
-        another to experience it. I think I just had this
-        over-romanticized perception of a startup. 
 
                 Ron
         You might have had this rosey-view of working at a 
@@ -207,14 +173,12 @@ Leslie looks distraught and unsure of herself.
                 Leslie
         Yeah. Going through a series C, focusing on growth, 
         somehow we're supposed to double our paying users 
-        in the next two quarters. All while making sure the 
+        in the next year. All while making sure the 
         servers don't crumble under the load and finding 
         enough time to develop new features for the site!
 
                 Ron
-        Seems like you're frustrated. When Billion envitably 
-        calls you, you can get a feel for the company culture
-        and see how their engineering teams operate.  
+        Seems like you made your decision already.   
 
                 Leslie
         But I feel like I'm leaving my child behind, if I 
@@ -223,28 +187,21 @@ Leslie looks distraught and unsure of herself.
         poach some of our engineers. 
 
                 Ron
-        Regardless of how you feel now, it still seems you 
-        care about your company. You talk like all of you 
-        are a family. And that's rare. 
+        It still seems you care about your company and your team.
+        You talk like all of you are a family. And that's rare. 
 
                 Leslie
         (sarastically) Yeah, my company. And a monument to all
         my mistakes. 
 
                 Ron
-        And also your successes. Checkout Billion. Talk to their
+        And also your successes. Even so many tech people want to
+        work at Billion, the company is not without their problems.
+        When you get called back for another interview, talk to their
         engineers. Ask them what are some of their daily challenges. 
         They might be facing the same problems as you. Or more 
         realistically, they don't have to worry about as much
         because they're not running a company. 
-
-    /* save for later? Its a pretty powerful line. 
-                Leslie
-        No, it's that I don't believe in what we're doing any
-        more. The VC culture, only focusing on growth. We've 
-        lost track of who we are, who we were. 
-        
-    */
 
                 Leslie
         (reluctantly) Well, alright. And what do I do in the 
@@ -257,8 +214,7 @@ Leslie looks distraught and unsure of herself.
 Leslie smiles at the remark. She seems a bit more reassured. 
 
                 Leslie
-        Well I'll try my best. Thanks Ron. I can alwasy count
-        on you for advice. 
+        Well I'll try my best. Thanks again for this. 
 
 Ron's phone rings or buzzes. Ron looks at his phone and looks a little shook.
 
@@ -278,7 +234,7 @@ walks in and starts to head for her desk. She gets interrupted by Mark, her co-f
                 Mark
         Hey! How's my CTO doing this fine afternoon? 
 
-Leslie feigns a smile. 
+Leslie looks a little bit frustrated.  
 
                 Leslie
         I'm good. Gonna meet with the backend engineers to 
@@ -353,6 +309,9 @@ Mark's phone rings.
 
                 Leslie
         Are you ser-
+    /*  This part below makes Mark seem like a fuck boy. This can either contribute to the story 
+        or derail it bc of this distracting character.
+    */ 
 
 He picks up the phone as Leslie is talking and walks without saying goodbye. He can be heard talking 
 in a bro-frat-style voice to someone on the phone. 
@@ -367,22 +326,21 @@ Leslie stands there incredulously.
                 Leslie
         Fuck our investors. 
 
-Leslie walks to her table with other people working at the same table. She sits down. Another 
-software developer at the desk turns and talks to her. She begins working .
+Leslie checks the time on her phone and walks to her team an a hurried fashion. She annouces to 
+her team. 
 
-CUT TO a conference room with a white board in the same building. It is clearly later than before she
-first came in, perhaps even at night. 
+                Leslie
+        Alright, all-hands meeting in 5 minutes! We're 
+        meeting in the conference room!
 
-    /*  This scene could come right after Leslie goes to her desk. She could meet up with
-        her dev team and break the news, when it's still in the afternoon
-    */ 
+CUT TO a conference room with a white board in the same building. Leslie walks in while her 
+engineers are sitting around the room.  
                 
                 Leslie
         Alright. So we need to start work migrating our current
-        shit database to a faster one like Postgres. And we 
-        also need to clean up the user interface so that
-        the ads have more space. That's what our investors
-        want for this new release. 
+        shit database to a faster. And we  also need to clean up
+        the homepage user interface so that the ads have more 
+        space. That's what our investorswant for this new release. 
                 (beat)
         And we also need to implement a blockchain. 
 
@@ -401,8 +359,7 @@ The engineers in the room have questioned looks and start talking among themssel
         service too. 
 
                 Engineer 2 (Jason)
-        I agree. The frontend UI has changed so much, just in 
-        the past 3 days. The frontend designers can't keep 
+        I agree. The frontend designers can't keep 
         up with the the new features that we're supposed to 
         have AND keep up with the new specs for any previous 
         work we did. 
@@ -412,16 +369,14 @@ The engineers in the room have questioned looks and start talking among themssel
         and management BS so we could do our jobs developing the 
         app. But you gotta tell Mark that he can't keep bombarding 
         us with new features every other day just because it sounds 
-        cool. 
-
-                Engineer 2
-        Yeah. We have no time. 
+        cool. We got old code that we need to make better. 
 
 Leslie stands there in thought, trying to figure out how to solve her teams tech problems. After pondering for a few seconds she raises her head. 
 
                 Leslie
         Kelly, migrate our user info tables to the new database
-        only. Our test data can wait. Jason, try to hardcode 
+        only. Have our authentication microservice use that new 
+        database. Our test data can wait. Jason, try to hardcode 
         some of the front end componants right now. For the video
         service problems, we won't serve 1080p video, just 720. 
 
